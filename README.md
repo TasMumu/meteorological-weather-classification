@@ -67,9 +67,13 @@ Feature Distribution
 
 ![Distribution of Season]([images/Season_Distribution.png](https://github.com/TasMumu/meteorological-weather-classification/blob/5b1a0ee016beed989cdcd85d5a2f2a7c091468e3/Histograms.png))
 
+###Temperature, humidity, and wind_speed histograms
+
 ![Temperature, humidity, and wind_speed histograms](https://github.com/TasMumu/meteorological-weather-classification/blob/5b1a0ee016beed989cdcd85d5a2f2a7c091468e3/Histograms.png)
 
-![Boxplot of Precipitation](images/Precipitation.png)
+###Boxplot of Precipitation
+
+![Boxplot of Precipitation](https://github.com/TasMumu/meteorological-weather-classification/blob/5c593dee4b2b6bb81d25446540a027d0f0719795/Precipitation.png)
 
 
 ---
