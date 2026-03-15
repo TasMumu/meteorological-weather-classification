@@ -65,7 +65,7 @@ These visualizations helped identify feature distributions and potential outlier
 
 Feature Distribution
 
-![Distribution of Season](images/Season_Distribution.png)
+![Distribution of Season]([images/Season_Distribution.png](https://github.com/TasMumu/meteorological-weather-classification/blob/5b1a0ee016beed989cdcd85d5a2f2a7c091468e3/Histograms.png))
 
 ![Temperature, humidity, and wind_speed histograms](images/Histograms.png)
 
