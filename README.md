@@ -4,6 +4,10 @@
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-orange)
 
+## Project Summary
+
+This project applies Support Vector Machine (SVM) models to classify weather conditions using meteorological data. Multiple kernel configurations are evaluated to determine the most effective model for weather type prediction.
+
 ## Project Overview
 
 Weather prediction is an important task in environmental monitoring, agriculture, and transportation systems. Machine learning models can analyze meteorological features to identify patterns and classify weather conditions.
