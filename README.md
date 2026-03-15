@@ -1,5 +1,9 @@
 # Weather Type Classification using Support Vector Machines
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-orange)
+
 ## Project Overview
 
 Weather prediction is an important task in environmental monitoring, agriculture, and transportation systems. Machine learning models can analyze meteorological features to identify patterns and classify weather conditions.
@@ -56,6 +60,17 @@ Visualizations included:
 - Box plot analysis for **precipitation percentage**
 
 These visualizations helped identify feature distributions and potential outliers.
+
+## Visualizations
+
+Feature Distribution
+
+![Distribution of Season](images/Season_Distribution.png)
+
+![Temperature, humidity, and wind_speed histograms](images/Histograms.png)
+
+![Boxplot of Precipitation](images/Precipitation.png)
+
 
 ---
 
